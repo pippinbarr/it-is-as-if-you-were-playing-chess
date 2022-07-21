@@ -2,7 +2,7 @@
 
 ![](images/it-is-as-if-you-were-playing-chess-banner.png)
 
-# [Play Online](http://www.pippinbarr.com/it-is-as-if-you-were-playing-chess/)** (desktop and mobile)
+# [Play Online](http://www.pippinbarr.com/it-is-as-if-you-were-playing-chess/) (desktop and mobile)
 
 ## Description
 *You’ve always wanted to be a chess master! But you aren’t one! Are you! Now you can at least look like one! Pretend you’re playing chess! Make moves! Act like you feel things! Smirk! Frown! Weep! Chess!*
