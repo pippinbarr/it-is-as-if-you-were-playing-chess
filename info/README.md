@@ -10,7 +10,7 @@
 _It is as if you were playing chess_ was written in JavaScript/HTML5 using the [Phaser](http://www.phaser.io/) game framework. It's a game that allows you to pretend to be playing chess. You know, impress your friends and strangers on the metro...
 
 ## Documentation
-* Read the [Process Documentation](../process) for a design journal
+* Read the [Process Documentation](../process)
 * Look at the [Code Repository](https://github.com/pippinbarr/it-is-as-if-you-were-playing-chess) for source code etc.
 
 ## Press
