@@ -11,7 +11,7 @@ _It is as if you were playing chess_ was written in JavaScript/HTML5 using the 
 
 ## Documentation
 * Read the [Process Documentation](../process) for a design journal
-* Look at the [Code Repository](https://github.com/pippinbarr/) for source code etc.
+* Look at the [Code Repository](https://github.com/pippinbarr/it-is-as-if-you-were-playing-chess) for source code etc.
 
 ## Press
 Read the [Press Kit](../press) for press information
